@@ -1,0 +1,28 @@
+[features]
+seeds = false
+skip-lint = false
+
+[test.validator]
+url = "https://api.devnet.solana.com"
+
+# pyth_account
+[[test.validator.clone]]
+address = "J83w4HKfqxwcq3BEMMkPFSppX3gqekLyLJBexebFVkix"
+
+
+
+[programs.localnet]
+raffle = "BzDw8prEinxpmN51JApmWedRqQTv7FMKXXcgPYRvmvEP"
+
+[programs.devnet]
+raffle = "BzDw8prEinxpmN51JApmWedRqQTv7FMKXXcgPYRvmvEP"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "localnet"
+wallet = "/root/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

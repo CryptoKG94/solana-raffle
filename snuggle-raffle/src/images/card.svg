@@ -1,0 +1,29 @@
+<svg width="302" height="506" viewBox="0 0 302 506" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_32585_817)">
+<rect x="-78.1666" y="91.732" width="18" height="190.72" rx="9" transform="rotate(-120 -78.1666 91.732)" fill="white" fill-opacity="0.1"/>
+<rect x="339.498" y="104.69" width="18" height="190.72" rx="9" transform="rotate(135 339.498 104.69)" fill="white" fill-opacity="0.1"/>
+<rect x="-91" y="124.387" width="18" height="269.597" rx="9" transform="rotate(-120 -91 124.387)" fill="white" fill-opacity="0.1"/>
+<rect x="374.362" y="108.634" width="18" height="269.597" rx="9" transform="rotate(135 374.362 108.634)" fill="white" fill-opacity="0.1"/>
+<path d="M0 16C0 7.16345 7.16344 0 16 0H286C294.837 0 302 7.16344 302 16V490C302 498.837 294.837 506 286 506H16C7.16344 506 0 498.837 0 490V16Z" fill="url(#paint0_linear_32585_817)"/>
+<rect x="-78.1666" y="91.732" width="18" height="190.72" rx="9" transform="rotate(-120 -78.1666 91.732)" fill="white" fill-opacity="0.1"/>
+<rect x="339.498" y="104.69" width="18" height="190.72" rx="9" transform="rotate(135 339.498 104.69)" fill="white" fill-opacity="0.1"/>
+<rect x="-91" y="124.387" width="18" height="269.597" rx="9" transform="rotate(-120 -91 124.387)" fill="white" fill-opacity="0.1"/>
+<rect x="374.362" y="108.634" width="18" height="269.597" rx="9" transform="rotate(135 374.362 108.634)" fill="white" fill-opacity="0.1"/>
+
+<path d="M16 283H286V478C286 484.627 280.627 490 274 490H28C21.3726 490 16 484.627 16 478V283Z" fill="#26A3CA"/>
+
+<rect x="381.483" y="510.855" width="18" height="139.084" rx="9" transform="rotate(140.088 381.483 510.855)" fill="white" fill-opacity="0.06"/>
+<rect x="342.044" y="499.681" width="18" height="139.084" rx="9" transform="rotate(140.088 342.044 499.681)" fill="white" fill-opacity="0.06"/>
+<rect x="-56" y="470.13" width="18" height="139.084" rx="9" transform="rotate(-120 -56 470.13)" fill="white" fill-opacity="0.06"/>
+<rect x="-60" y="502.13" width="18" height="139.084" rx="9" transform="rotate(-120 -60 502.13)" fill="white" fill-opacity="0.06"/>
+</g>
+
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+</pattern>
+
+<clipPath id="clip0_32585_817">
+<path d="M0 16C0 7.16345 7.16344 0 16 0H286C294.837 0 302 7.16344 302 16V490C302 498.837 294.837 506 286 506H16C7.16344 506 0 498.837 0 490V16Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

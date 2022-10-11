@@ -1,0 +1,24 @@
+[package]
+name = "raffle"
+version = "0.1.0"
+description = "Created with Anchor"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "raffle"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = { version = "0.25.0", features = ["init-if-needed"]}
+anchor-spl = "0.25.0"
+spl-token = "3.2.0"
+solana-program = "1.9.26"
+chainlink_solana = "1.0.0"
+pyth-client = "0.2.2"
